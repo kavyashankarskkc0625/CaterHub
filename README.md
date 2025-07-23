@@ -17,7 +17,7 @@
 4. framer-motion: Library for animations in React.
 5. jspdf: Generate PDFs from web content.
 
-git clone https://github.com/divyareddy083/CATERHUB-MiniProjectUpdated.git
+git clone gh repo clone kavyashankarskkc0625/CaterHub.git
 ### Packages to install in Backend side
 - npm install express mysql cors dotenv
 - npm install helmet
